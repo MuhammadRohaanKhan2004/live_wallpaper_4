@@ -23,13 +23,3 @@ canvas {
     display: block;
 }
 
-#hoverText {
-    position: absolute;
-    top: 16px;
-    left: 16px;
-    color: white;
-    font-size: 14px;
-    opacity: 0.5;
-    pointer-events: none;
-    display: none;
-}
